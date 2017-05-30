@@ -1,0 +1,15 @@
+{
+    "name": "tintas_reais",
+    "description": "Torna as tintas mais realistas em Minetest",
+    "keywords": [
+        "tintas_reais"
+    ],
+    "homepage": "https://github.com/BrunoMine/tintas_reais",
+    "forum": "https://forum.minetest.net/viewtopic.php?t=1",
+    "screenshots": [
+        "https://example.com/screenshot1.png"
+    ],
+    "authors": [
+        "BrunoMine"
+    ]
+}
