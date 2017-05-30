@@ -17,5 +17,5 @@ Torna as tintas mais realistas em Minetest
 * [Bower](https://minetest-bower.herokuapp.com/mods/tintas_reais)
 
 ## Configurações
-* `tintas_reais:crafting = false` altera as receitas das tintas (padrão é `false`)
+* `tintas_reais:crafting = true` altera as receitas das tintas (padrão é `true`)
 * `tintas_reais:textures = true` altera as texturas das tintas (padrão é `true`)
