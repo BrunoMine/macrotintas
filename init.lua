@@ -12,11 +12,11 @@
 -- Notificador de Inicializador
 local notificar = function(msg)
 	if minetest.setting_get("log_mods") then
-		minetest.debug("[TINTAS_REAIS]"..msg)
+		minetest.debug("[MACROTINTAS]"..msg)
 	end
 end
 
-local modpath = minetest.get_modpath("tintas_reais")
+local modpath = minetest.get_modpath("macrotintas")
 
 -- Carregar scripts
 notificar("Carregando...")

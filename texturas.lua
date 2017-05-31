@@ -11,7 +11,7 @@
 
 
 -- Verifica se está habilitado para trocar receitas
-local status = minetest.setting_getbool("tintas_reais:textures")
+local status = minetest.setting_getbool("macrotintas_textures")
 if not (status == nil) and (status == false) then
     return
 end

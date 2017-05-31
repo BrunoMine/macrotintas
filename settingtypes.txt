@@ -1,0 +1,3 @@
+macrotintas_textures (Alterar texturas) bool true
+macrotintas_crafting (Alterar receitas) bool true
+

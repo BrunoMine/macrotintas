@@ -10,7 +10,7 @@
   ]]
 
 -- Verifica se está habilitado para trocar receitas
-local status = minetest.setting_getbool("tintas_reais:crafting")
+local status = minetest.setting_getbool("macrotintas_crafting")
 if not (status == nil) and (status == false) then
     return
 end
