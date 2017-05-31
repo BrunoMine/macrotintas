@@ -18,6 +18,6 @@ end
 
 -- Altera todas as texturas
 for _, c in ipairs(dye.dyes) do
-	minetest.override_item("dye:" .. c[1], {inventory_image = "tintas_reais_" .. c[1] .. ".png"})
+	minetest.override_item("dye:" .. c[1], {inventory_image = "macrotintas_" .. c[1] .. ".png"})
 end
 
